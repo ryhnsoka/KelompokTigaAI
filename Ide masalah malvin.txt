@@ -1,55 +1,55 @@
 Bidang perdagangan & jasa
 
-21. *Bukti kehadiran jasa outsourced*
+1. *Bukti kehadiran jasa outsourced*
     - Masalah: klien memotong tagihan karena kehadiran petugas kebersihan atau keamanan diragukan.
     - Solusi: absensi berfoto dan berlokasi, laporan bulanan untuk klien.
     - Pembayar: perusahaan jasa kebersihan dan keamanan.
 
-22. *Pencatatan komisi agen properti*
+2. *Pencatatan komisi agen properti*
     - Masalah: komisi tidak dibayar karena tidak ada bukti siapa yang membawa pembeli lebih dulu.
     - Solusi: catatan prospek bertanggal dan kesepakatan komisi yang terkunci.
     - Pembayar: agen dan kantor properti.
 
 Bidang pertanian dan produksi
 
-23. *Catatan harian peternak ayam*
+3. *Catatan harian peternak ayam*
     - Masalah: pakan naik-turun, ayam mati tidak tercatat per kandang, dan laba per siklus tidak diketahui.
     - Solusi: pencatatan harian per kandang, biaya per kilogram, dan peringatan dini.
     - Pembayar: peternak plasma dan mitra, karena satu siklus gagal berarti kerugian puluhan juta.
 
-24. *Pemantau kualitas air tambak*
+4. *Pemantau kualitas air tambak*
     - Masalah: udang mati mendadak karena parameter air tidak dipantau rutin.
     - Solusi: catatan parameter, peringatan dini, dan jadwal pakan.
     - Pembayar: tambak intensif.
 
-25. *Pembukuan koperasi tani*
+5. *Pembukuan koperasi tani*
     - Masalah: simpanan anggota dicatat di buku, anggota tidak percaya saldonya, laporan telat.
     - Solusi: buku simpanan digital dan laporan yang bisa dilihat anggota.
     - Pembayar: koperasi, karena kepercayaan anggota adalah modal utamanya.
 
-26. *Kontrol mutu pabrik kecil*
+6. *Kontrol mutu pabrik kecil*
     - Masalah: produk cacat baru ketahuan setelah dikirim, dan penyebabnya tidak pernah dilacak.
     - Solusi: catatan mutu per batch dengan foto dan analisis penyebab.
     - Pembayar: pabrik kecil, karena retur dan reputasi lebih mahal.
 
-27. *Progres jahit konveksi*
+7. *Progres jahit konveksi*
     - Masalah: pesanan banyak, progres per penjahit tidak terlacak, janji kirim meleset.
     - Solusi: papan kerja per tahap dan upah per potong otomatis.
     - Pembayar: konveksi dan garmen kecil.
 
-28. *Ketertelusuran bahan pangan*
+8. *Ketertelusuran bahan pangan*
     - Masalah: pembeli besar meminta bukti asal bahan, dan pengolah tidak punya catatan batch.
     - Solusi: catatan batch, tanggal, dan pemasok yang bisa dicetak jadi laporan.
     - Pembayar: pengolah pangan yang memasok hotel dan ekspor.
 
 Bidang keuangan dan operasi harian
 
-29. *Penagihan piutang*
+9. *Penagihan piutang*
     - Masalah: invoice telat dibayar, penagihan manual lewat chat, arus kas tersendat.
     - Solusi: invoice, pengingat bertingkat, dan pencatatan pembayaran.
     - Pembayar: usaha jasa B2B.
 
-30. *Pencocokan mutasi bank*
+10. *Pencocokan mutasi bank*
     - Masalah: uang masuk tidak cocok dengan catatan, tutup buku butuh berhari-hari.
     - Solusi: impor mutasi, pencocokan otomatis, dan penanda selisih.
     - Pembayar: usaha menengah dengan ratusan transaksi per bulan.
